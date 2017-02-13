@@ -1,11 +1,41 @@
-I-Logix-RPY-Archive version 8.13.0 * 9802402
+I-Logix-RPY-Archive version 8.14.0 * 9807305
 { CGEMdiWorkspace 
 	- stubList = { IRPYRawContainer 
 		- size = 0;
 	}
 	- isLoadOnDemand = 0;
 	- myViewsWithID = { IRPYRawContainer 
-		- size = 0;
+		- size = 1;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 25;
+				- m_nTop = 25;
+				- m_nRight = 625;
+				- m_nBottom = 405;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Model1";
+				- _id = GUID 5b54f724-2a3c-43ff-a4c8-42436080e575;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 976 692 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 0;
+			- m_bIsActiveView = 1;
+		}
 	}
 	- _fullName = "C:\\_Work\\git_work\\rhapsody_project_in_git\\gitFromRhapsody\\JavaTestForGit\\JavaTestForGit";
 	- _selectedPerspective = "Basic";

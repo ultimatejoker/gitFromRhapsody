@@ -3,20 +3,21 @@ I-Logix-RPY-Archive version 8.13.0 Java 9802402
 	- _id = GUID 8d6ee3ab-693f-4df2-9167-0aeff2419dbb;
 	- _myState = 8192;
 	- _name = "Default";
-	- _modifiedTimeWeak = 1.15.2017::16:5:8;
-	- weakCGTime = 1.15.2017::16:5:8;
+	- _modifiedTimeWeak = 1.25.2017::16:5:44;
+	- _lastID = 2;
+	- weakCGTime = 1.25.2017::16:5:44;
 	- strongCGTime = 1.2.1990::0:0:0;
 	- _defaultComposite = GUID d475cd46-793e-4b7d-b808-aa5164d7e45b;
 	- _eventsBaseID = -1;
 	- Classes = { IRPYRawContainer 
-		- size = 1;
+		- size = 3;
 		- value = 
 		{ IClass 
 			- _id = GUID d475cd46-793e-4b7d-b808-aa5164d7e45b;
 			- _myState = 40960;
 			- _name = "TopLevel";
-			- _modifiedTimeWeak = 1.2.1990::0:0:0;
-			- weakCGTime = 1.2.1990::0:0:0;
+			- _modifiedTimeWeak = 1.22.2017::16:0:49;
+			- weakCGTime = 1.22.2017::16:0:49;
 			- strongCGTime = 1.2.1990::0:0:0;
 			- _multiplicity = "";
 			- _itsStateChart = { IHandle 
@@ -24,7 +25,15 @@ I-Logix-RPY-Archive version 8.13.0 Java 9802402
 			}
 			- _classModifier = Unspecified;
 		}
+		{ IClass 
+			- fileName = "Car";
+			- _id = GUID 2dd60d5e-5cc3-4337-b05a-c40f51bf806f;
+		}
+		{ IClass 
+			- fileName = "Bus";
+			- _id = GUID e0a9e74c-a9f2-46fa-aa46-63a393ea42cc;
+		}
 	}
-	- _configurationRelatedTime = 1.1.1970::2:0:0;
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
 }
 
