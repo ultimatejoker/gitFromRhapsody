@@ -1,4 +1,4 @@
-I-Logix-RPY-Archive version 8.14.0 * 9807305
+I-Logix-RPY-Archive version 8.14.0 * 9810022
 { CGEMdiWorkspace 
 	- stubList = { IRPYRawContainer 
 		- size = 0;
@@ -31,7 +31,7 @@ I-Logix-RPY-Archive version 8.14.0 * 9807305
 				- _id = GUID 5b54f724-2a3c-43ff-a4c8-42436080e575;
 			}
 			- _UpLeft = 0 0 ;
-			- _DownRight = 976 692 ;
+			- _DownRight = 1162 823 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 			- m_bIsActiveView = 1;
