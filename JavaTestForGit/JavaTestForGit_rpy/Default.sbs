@@ -3,21 +3,21 @@ I-Logix-RPY-Archive version 8.14.0 Java 9810022
 	- _id = GUID 8d6ee3ab-693f-4df2-9167-0aeff2419dbb;
 	- _myState = 8192;
 	- _name = "Default";
-	- _modifiedTimeWeak = 2.27.2017::15:44:40;
-	- _lastID = 5;
-	- weakCGTime = 2.27.2017::15:44:40;
+	- _modifiedTimeWeak = 3.1.2017::16:55:58;
+	- _lastID = 6;
+	- weakCGTime = 3.1.2017::16:55:58;
 	- strongCGTime = 1.2.1990::0:0:0;
 	- _defaultComposite = GUID d475cd46-793e-4b7d-b808-aa5164d7e45b;
 	- _eventsBaseID = -1;
 	- Classes = { IRPYRawContainer 
-		- size = 6;
+		- size = 7;
 		- value = 
 		{ IClass 
 			- _id = GUID d475cd46-793e-4b7d-b808-aa5164d7e45b;
 			- _myState = 40960;
 			- _name = "TopLevel";
-			- _modifiedTimeWeak = 2.15.2017::18:4:3;
-			- weakCGTime = 2.15.2017::18:4:3;
+			- _modifiedTimeWeak = 2.27.2017::15:44:40;
+			- weakCGTime = 2.27.2017::15:44:40;
 			- strongCGTime = 1.2.1990::0:0:0;
 			- _multiplicity = "";
 			- _itsStateChart = { IHandle 
@@ -44,6 +44,10 @@ I-Logix-RPY-Archive version 8.14.0 Java 9810022
 		{ IClass 
 			- fileName = "Helicopter";
 			- _id = GUID 6d343515-1abc-44dd-a3c4-9a9777ea8937;
+		}
+		{ IClass 
+			- fileName = "Plane";
+			- _id = GUID c0e9e4b3-c9a7-470d-8426-73cc26f371a3;
 		}
 	}
 	- _configurationRelatedTime = 1.2.1990::0:0:0;
