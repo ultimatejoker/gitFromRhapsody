@@ -54,6 +54,7 @@ I-Logix-RPY-Archive version 8.14.0 * 9810022
 	- mapOslcRmCollections = { IRPYRawContainer 
 		- size = 0;
 	}
+	- _ShowPerspectivesHint = "False";
 
 	- m_favoritesTree = {
 		count=1;
