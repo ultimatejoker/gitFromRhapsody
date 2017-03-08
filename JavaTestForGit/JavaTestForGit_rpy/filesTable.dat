@@ -1,11 +1,10 @@
 I-Logix-RPY-Archive version 8.14.0 * 9810084
 
 - filesTable = { IRPYRawContainer 
-	- size = 8;
+	- size = 7;
 	- value = "JavaTestForGit.rpy" ""
 	"JavaTestForGit_rpy\\Default.sbs" "Default"
 	"JavaTestForGit_rpy\\DefaultComponent.cmp" "DefaultComponent"
-	"JavaTestForGit_rpy\\Helicopter.cls" "Default::Helicopter"
 	"JavaTestForGit_rpy\\Jeep.cls" "Default::Jeep"
 	"JavaTestForGit_rpy\\Plane.cls" "Default::Plane"
 	"JavaTestForGit_rpy\\Train.cls" "Default::Train"
