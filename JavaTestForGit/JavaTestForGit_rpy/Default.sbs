@@ -1,23 +1,23 @@
-I-Logix-RPY-Archive version 8.14.0 Java 9810022
+I-Logix-RPY-Archive version 8.14.0 Java 9810084
 { ISubsystem 
 	- _id = GUID 8d6ee3ab-693f-4df2-9167-0aeff2419dbb;
 	- _myState = 8192;
 	- _name = "Default";
-	- _modifiedTimeWeak = 3.5.2017::16:0:5;
-	- _lastID = 7;
-	- weakCGTime = 3.5.2017::16:0:5;
+	- _modifiedTimeWeak = 3.8.2017::15:45:42;
+	- _lastID = 9;
+	- weakCGTime = 3.8.2017::15:45:42;
 	- strongCGTime = 1.2.1990::0:0:0;
 	- _defaultComposite = GUID d475cd46-793e-4b7d-b808-aa5164d7e45b;
 	- _eventsBaseID = -1;
 	- Classes = { IRPYRawContainer 
-		- size = 7;
+		- size = 6;
 		- value = 
 		{ IClass 
 			- _id = GUID d475cd46-793e-4b7d-b808-aa5164d7e45b;
 			- _myState = 40960;
 			- _name = "TopLevel";
-			- _modifiedTimeWeak = 3.1.2017::16:55:58;
-			- weakCGTime = 3.1.2017::16:55:58;
+			- _modifiedTimeWeak = 3.6.2017::15:35:15;
+			- weakCGTime = 3.6.2017::15:35:15;
 			- strongCGTime = 1.2.1990::0:0:0;
 			- _multiplicity = "";
 			- _itsStateChart = { IHandle 
@@ -26,16 +26,8 @@ I-Logix-RPY-Archive version 8.14.0 Java 9810022
 			- _classModifier = Unspecified;
 		}
 		{ IClass 
-			- fileName = "Car";
-			- _id = GUID 2dd60d5e-5cc3-4337-b05a-c40f51bf806f;
-		}
-		{ IClass 
 			- fileName = "Truck";
 			- _id = GUID 1a6d1027-7fe7-4e91-b4f4-8bcc4ac7199a;
-		}
-		{ IClass 
-			- fileName = "Jeep";
-			- _id = GUID 67d9aa39-3bb3-489f-9abb-0755806eca78;
 		}
 		{ IClass 
 			- fileName = "Helicopter";
@@ -49,7 +41,11 @@ I-Logix-RPY-Archive version 8.14.0 Java 9810022
 			- fileName = "Train";
 			- _id = GUID c959ad7f-f7f3-4164-882a-14baa9dda5b3;
 		}
+		{ IClass 
+			- fileName = "Jeep";
+			- _id = GUID b264dbee-e389-40f9-b011-ec617f1458bb;
+		}
 	}
-	- _configurationRelatedTime = 3.5.2017::16:0:5;
+	- _configurationRelatedTime = 3.8.2017::15:45:42;
 }
 

@@ -1,20 +1,20 @@
-I-Logix-RPY-Archive version 8.14.0 Java 9810084
+I-Logix-RPY-Archive version 8.14.0 Java 9810022
 { IClass 
-	- _id = GUID b264dbee-e389-40f9-b011-ec617f1458bb;
+	- _id = GUID b8c9818c-37da-4949-9cf5-f098dd646ff1;
 	- _myState = 8192;
-	- _name = "Jeep";
-	- _modifiedTimeWeak = 3.8.2017::15:41:2;
+	- _name = "Boat";
+	- _modifiedTimeWeak = 3.6.2017::15:35:32;
 	- _lastID = 1;
-	- weakCGTime = 3.8.2017::15:41:2;
-	- strongCGTime = 3.8.2017::15:40:54;
+	- weakCGTime = 3.6.2017::15:35:32;
+	- strongCGTime = 3.6.2017::15:35:18;
 	- Attrs = { IRPYRawContainer 
 		- size = 1;
 		- value = 
 		{ IAttribute 
-			- _id = GUID 466e18bd-0fa1-4599-966c-17aaf7bd539c;
-			- _myState = 10240;
-			- _name = "attribute_0";
-			- _modifiedTimeWeak = 3.8.2017::15:40:57;
+			- _id = GUID d3d7f978-c929-4955-a5d1-ac234bf92c03;
+			- _myState = 8192;
+			- _name = "length";
+			- _modifiedTimeWeak = 3.6.2017::15:35:25;
 			- _typeOf = { IHandle 
 				- _m2Class = "IType";
 				- _filename = "PredefinedTypesJava.sbs";

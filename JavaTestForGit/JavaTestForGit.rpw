@@ -1,4 +1,4 @@
-I-Logix-RPY-Archive version 8.14.0 * 9810022
+I-Logix-RPY-Archive version 8.14.0 * 9810084
 { CGEMdiWorkspace 
 	- stubList = { IRPYRawContainer 
 		- size = 0;
@@ -51,10 +51,9 @@ I-Logix-RPY-Archive version 8.14.0 * 9810022
 	- liElementTypes = { IRPYRawContainer 
 		- size = 0;
 	}
-	- mapOslcRmCollections = { IRPYRawContainer 
+	- map = { IRPYRawContainer 
 		- size = 0;
 	}
-	- _ShowPerspectivesHint = "False";
 
 	- m_favoritesTree = {
 		count=1;
